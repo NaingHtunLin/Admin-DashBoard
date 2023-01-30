@@ -1,3 +1,3 @@
 # admin-dashboard
 
-Live site url []
+Live site url [https://admin-panel-3wfd.vercel.app/]
